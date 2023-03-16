@@ -17,7 +17,7 @@ Maleficent is the anatgonist of Disney's Sleeping Beauty. The supposes incarnati
 
 This information was gathered through [*This Webiste*](https://disney.fandom.com/wiki/Maleficent)
 
-[Next](markdown_page_2.md)
+[Next](markdown_page_2.md) | [Back](README.md)
 
 [Home Page](README.md) |
 [Page 2(Jafar)](markdown_page_2.md) | 
