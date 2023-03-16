@@ -38,7 +38,7 @@ for a in range(0, len(my_list), 2):
 ```
 [Next](markdown_page_5.md)
 
-[Home Page](Home_page.md)
+[Home Page](README.md) |
 [Page 1(Maleficent)](markdown_page_1.md) | 
 [Page 2(Jafar)](markdown_page_2.md) | 
 [Page 3(Facilier)](markdown_page_3.md) | 
