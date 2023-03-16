@@ -36,7 +36,7 @@ print("Printing every other list item:")
 for a in range(0, len(my_list), 2):
     print("Item",a, "is", my_list[a])
 ```
-[Next](markdown_page_5.md)
+[Next](markdown_page_5.md) | [Back](markdown_page_3.md)
 
 [Home Page](README.md) |
 [Page 1(Maleficent)](markdown_page_1.md) | 
