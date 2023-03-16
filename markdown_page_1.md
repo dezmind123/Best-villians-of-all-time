@@ -19,7 +19,7 @@ This information was gathered through [*This Webiste*](https://disney.fandom.com
 
 [Next](markdown_page_2.md)
 
-[Home Page](README.md)
+[Home Page](README.md) |
 [Page 2(Jafar)](markdown_page_2.md) | 
 [Page 3(Facilier)](markdown_page_3.md) | 
 [Page 4(Scar)](markdown_page_4.md) | 
