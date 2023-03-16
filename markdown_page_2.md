@@ -1,0 +1,52 @@
+# **Disney Villian: Jafar**
+
+### *Jafar*: 
+Jafar is one of my faviortite villains beacuse he is simally a hater. I believe many peopel in the realy world refelct that side of him as he just wants to see other downfall. He does not have many powers outside of magic and flight but he is evil.  
+
+! [Jafar] (documents/spring 2023/ It 1000/Jafar with hands up.jpeg)
+
+### Below is a block of code:
+```
+import turtle
+
+turtle.left(20)
+            
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+
+turtle.left(30)
+
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+
+turtle.left(40)
+
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+
+```
+[Next](markdown_page_3.md)
+
+[Home Page](Home_page.md)
+[Page 1(Maleficent)](markdown_page_1.md) | 
+[Page 3(Facilier)](markdown_page_3.md) | 
+[Page 4(Scar)](markdown_page_4.md) | 
+[Page 5(Queen of Hearts)](markdown_page_5.md) |
