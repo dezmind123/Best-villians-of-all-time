@@ -46,7 +46,7 @@ turtle.left(90)
 ```
 [Next](markdown_page_3.md)
 
-[Home Page](Home_page.md)
+[Home Page](README.md) |
 [Page 1(Maleficent)](markdown_page_1.md) | 
 [Page 3(Facilier)](markdown_page_3.md) | 
 [Page 4(Scar)](markdown_page_4.md) | 
