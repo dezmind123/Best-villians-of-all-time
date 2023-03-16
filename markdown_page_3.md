@@ -8,5 +8,5 @@ You can find a picture of faclier throught [*This website *](https://static.wiki
 [Home Page](Home_page.md)
 [Page 1(Maleficent)](markdown_page_1.md) | 
 [Page 2(Jafar)](markdown_page_2.md) | 
-[Page 4(Scar)](markdown_page_4.md) | 
+[Page 4(Scar)](markdown_page_4.md)  | 
 [Page 5(Queen of Hearts)](markdown_page_5.md) |
