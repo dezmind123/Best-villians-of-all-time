@@ -6,7 +6,7 @@ Click here to see another image of the Queen of hearts: [*throught this webiste*
 
 [Back](markdown_page_4.md)
 
-[Home Page](Home_page.md)
+[Home Page](README.md) |
 [Page 1(Maleficent)](markdown_page_1.md) | 
 [Page 2(Jafar)](markdown_page_2.md) | 
 [Page 3(Facilier)](markdown_page_3.md) | 
