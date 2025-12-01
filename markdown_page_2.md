@@ -1,7 +1,7 @@
 # **Disney Villian: Jafar**
 
 ### *Jafar*: 
-Jafar is one of my faviortite villains beacuse he is simally a hater. I believe many peopel in the realy world refelct that side of him as he just wants to see other downfall. He does not have many powers outside of magic and flight but he is evil.  
+Jafar is one of my favorite villains because he is simply a hater. I believe many people in the real world reflect that side of him as he just wants to see others downfall. He does not have many powers outside of magic and flight, but he is evil.  
 
 ![Jafar with hands up](https://user-images.githubusercontent.com/128009383/225698762-21f09167-e125-4033-a48e-f27493655505.jpeg)
 
