@@ -1,7 +1,7 @@
 # **Disney Villian: Maleficent**
 
 ### *Maleficent*: 
-Maleficent is the anatgonist of Disney's Sleeping Beauty. The supposes incarnation of evil is a fairy that did not take well to not being invited to the christening of the princess of her kingdom. Also the main chacter of their own movie where a villain finally gets to example their side of the story and show why they were rightfuly upset a the protagonist. 
+Maleficent is the antagonist of Disney's Sleeping Beauty. The supposed incarnation of evil is a fairy that did not take well to not being invited to the christening of the princess of her kingdom. Also, the main character of their own movie where a villain finally gets to tell their side of the story and show why they were rightfully upset a the protagonist. 
 
 ### *List of powers*:
 + Magic Curse Inducement Shapeshifting Telekinesis  
