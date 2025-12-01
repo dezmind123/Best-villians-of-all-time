@@ -1,4 +1,4 @@
-**Disney Villian: Queen of hearts**
+**Disney Villian: Queen of heart**
 
 ![DisneyQueenHearts](https://user-images.githubusercontent.com/128009383/225700132-979b446f-0c64-454e-be2f-3f4f885851d6.jpg)
 
