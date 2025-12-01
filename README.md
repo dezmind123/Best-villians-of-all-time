@@ -1,5 +1,5 @@
 #HOME PAGE
-## HI! This is my Midterm Project for IT 1000
+## HI! This is my IT 1600 project
 
 ### Topic Covered: 
 In this project I will cover 5 **Disney Villains**. 
